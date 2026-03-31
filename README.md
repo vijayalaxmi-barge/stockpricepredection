@@ -1,5 +1,4 @@
-# stockpricepredection
-helps to predict stock prices
+
 # Stock Price Prediction (NSE/BSE) — Training and App
 
 This repository provides:
