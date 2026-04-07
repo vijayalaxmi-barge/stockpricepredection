@@ -1,4 +1,6 @@
-streamlit>=1.33,<2
+// Copyright (c) 2026 Vijayalaxmi Barge
+// GitHub: https://github.com/vijayalaxmi-barge
+// Licensed under the MIT Licensestreamlit>=1.33,<2
 pandas>=2.0
 numpy>=1.23
 yfinance>=0.2.40
