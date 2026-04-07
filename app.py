@@ -1,4 +1,6 @@
-import streamlit as st
+# // Copyright (c) 2026 Vijayalaxmi Barge
+# // GitHub: https://github.com/vijayalaxmi-barge
+# // Licensed under the MIT Licenseimport streamlit as st
 import pandas as pd
 import numpy as np
 import plotly.graph_objs as go
