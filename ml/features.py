@@ -1,4 +1,6 @@
-from __future__ import annotations
+# // Copyright (c) 2026 Vijayalaxmi Barge
+# // GitHub: https://github.com/vijayalaxmi-barge
+# // Licensed under the MIT Licensefrom __future__ import annotations
 import numpy as np
 import pandas as pd
 
